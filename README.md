@@ -92,4 +92,9 @@ Penjelasan menu Side menu:
 •	MaterialPageRoute: Membuat rute baru untuk halaman yang dituju, baik HomePage maupun ListData.
 
 Screenshoot tampilan:
+![Screenshot 2024-09-24 074340](https://github.com/user-attachments/assets/566f969d-de06-4881-87fe-233c8ede6534)
+![Screenshot 2024-09-24 074511](https://github.com/user-attachments/assets/2924e377-f082-4ade-9a32-bcdec8d2161a)
+![Screenshot 2024-09-24 074548](https://github.com/user-attachments/assets/19f1800e-02e4-4ecf-96f7-a87c81457c02)
+![Screenshot 2024-09-24 074615](https://github.com/user-attachments/assets/9b7ece46-c525-40e7-9756-0768b002a452)
+![Screenshot 2024-09-24 074628](https://github.com/user-attachments/assets/50736491-033a-44df-b6db-1cd8bdadb8f6)
 
